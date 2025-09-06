@@ -8,4 +8,5 @@
     <string name="driving_licence_no">Driving Licence No</string>
     <string name="passport_no">Passport No</string>
     <string name="test_bank_ekyc_app">Test Bank eKYC App</string>
+    <string name="hint_upload_id">Upload your identification document (Old NIC, New NIC, Driving Licence or Passport)</string>
 </resources>
