@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Doc Mobile</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="document_detail">Document Detail</string>
+    <string name="document_type">Document Type</string>
+    <string name="nic">NIC</string>
+    <string name="driving_licence_no">Driving Licence No</string>
+    <string name="passport_no">Passport No</string>
+    <string name="test_bank_ekyc_app">Test Bank eKYC App</string>
+</resources>
